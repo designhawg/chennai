@@ -1,0 +1,114 @@
+/**** new styles for presentation ****/
+h1, h2, h3, h4, h5, h6 {
+	font-family: "proxima-nova", sans-serif;
+}
+
+.reveal h3.change {
+	font-size: 5.5rem;
+	line-height: .9em;
+	margin-top: 50px;
+	text-transform: uppercase;
+}
+
+h6.presentation_link {
+	font-family: "proxima-nova", sans-serif;
+	font-weight: 100;
+	margin-top: 20px;
+	font-size: 1.5rem;
+}
+
+.reveal h1 {
+	font-size: 4em;
+	font-family: "proxima-nova", sans-serif;
+	margin-bottom: -20px;
+	margin-top: 20px;
+}
+
+.reveal h1 .thin-hammer {
+	font-weight: 100;
+}
+
+.reveal h1 .thin-hammer-no {
+	font-weight: 100;
+	font-size: 3rem;
+}
+
+.reveal h2, .reveal h3, .reveal h4, .reveal h5 {
+	font-weight: 100;
+	font-size: 3rem;
+	font-family: "proxima-nova", sans-serif;
+	margin-bottom: -10px;
+}
+
+.reveal h2 {
+	text-transform: lowercase;
+	font-size: 4rem;
+}
+
+.reveal h4 {
+	font-size: 2rem;
+	margin-top: 20px;
+}
+
+.reveal h5 {
+	font-size: 1.5rem;
+	text-transform: lowercase;
+	margin-top: 20px;
+}
+
+h1.curious {
+	font-weight: 900;
+	font-size: 12rem;
+	line-height: .8em;
+}
+
+h1.curious2 {
+	font-weight: 900;
+	font-size: 10rem;
+	line-height: .8em;
+}
+
+h3.heavy {
+	font-weight: 900;
+	border-bottom: 5px solid #dadada;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+p.small {
+	margin-bottom: -10px;
+	font-size: 1rem;
+}
+
+p.small, p.tiny {
+	margin-top: -10px;
+	font-weight: 100;
+	font-size: 1.3rem;
+	font-family: "proxima-nova", sans-serif;
+}
+
+.form1 {
+	background-color: red;
+	height: 1000px;
+	width: 100%;
+}
+
+h1.hero, h2.hero, h3.hero {
+  font-size: 5em;
+  font-weight: 900;
+  line-height: .8;
+  margin-top: 50px;
+}
+
+h3.hero {
+  font-size: 3em;
+}
+
+.reveal section img {
+  background: none;
+  border: none;
+}
+
+.reveal section img, .reveal a:hover img {
+  box-shadow: none;
+}
