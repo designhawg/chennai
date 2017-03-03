@@ -6,3 +6,31 @@
 	display: block;
 	width: 100px;
 }
+
+/*selector { declaration }
+
+selector { property: value; }
+
+h1 { color: purple; }
+
+h1 {
+	color: purple;
+	font-family: Georgia, serif;
+}
+
+h1, h2, h3 {
+	color: purple;
+	font-family: Georgia, serif;
+}
+
+.green {
+	color: #4AFF33;
+	font-family: Georgia, serif;
+}
+
+#pink {
+	background-color: rgba(255,0,0,.3);
+}*/
+
+
+/* tag element */
